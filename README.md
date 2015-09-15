@@ -1,2 +1,4 @@
-# konekt-hardware
-Open-source hardware files for various Konekt boards
+# Konekt Dash and Dash Pro hardware repo
+
+## Release Notes
+- **Board Outlines** We at Konekt are commited to bringing an open hardware solution, but unlike software, there are definitive hard costs associated with producing a board. At this point in the beta, where debugging can still occur, we do not feel comfortable releasing full files to the general population---we do not want to cause heartache if we make modifications! If you are interested in joining our beta program, contact us! In the meantime we are offering up board outlines and the placement of connectors. If you have any questions, please visit us in our forum at: http://community.konekt.io
