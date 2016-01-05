@@ -11,5 +11,8 @@ https://konekt.io/start
 You can find the user manual here:
 https://content.konekt.io/docs/hardware/konekt-dash/manual/
 
-You can find our forums here:
+There is also a great index of documentation here:
+https://content.konekt.io/docs/
+
+You can find our forums here. We really want to hear about your projects!
 https://community.konekt.io/
