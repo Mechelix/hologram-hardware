@@ -9,10 +9,10 @@ You can find everything you need to at
 https://hologram.io/start
 
 You can find the user manual here:
-https://content.konekt.io/docs/hardware/konekt-dash/manual/
+https://hologram.io/docs/hardware/hologram-dash/
 
 There is also a great index of documentation here:
-https://content.hologram.io/documentation/
+https://hologram.io/docs/
 
 You can find our forums here. We really want to hear about your projects!
 https://community.hologram.io/
